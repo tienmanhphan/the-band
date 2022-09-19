@@ -3,3 +3,8 @@
     width: 50%
 }
 }
+@media (min-width: 980px) {
+    .body {
+        width: 100%;
+    }
+}
